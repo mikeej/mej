@@ -26,3 +26,7 @@ mix
 // Copy HTML
 mix
   .copy('./src/index.html', 'dist')
+
+// Copy Images
+mix
+  .copy('./src/assets/images/**/*', 'dist/assets/images/')

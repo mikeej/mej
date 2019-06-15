@@ -1,5 +1,10 @@
 {
     "/dist/assets/css/main.css": "/dist/assets/css/main.css",
     "/dist/assets/js/main.js": "/dist/assets/js/main.js",
-    "/dist/index.html": "/dist/index.html"
+    "/dist/index.html": "/dist/index.html",
+    "/dist/assets/images/hoppy.png": "/dist/assets/images/hoppy.png",
+    "/dist/assets/images/mikeedmundjones.jpg": "/dist/assets/images/mikeedmundjones.jpg",
+    "/dist/assets/images/neilson-active-holidays.png": "/dist/assets/images/neilson-active-holidays.png",
+    "/dist/assets/images/nutmeg-socially-responsible-investing.png": "/dist/assets/images/nutmeg-socially-responsible-investing.png",
+    "/dist/assets/images/rsa-ireland.png": "/dist/assets/images/rsa-ireland.png"
 }
