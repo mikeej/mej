@@ -1,0 +1,9 @@
+{
+  "name": "mej",
+  "version": "1.0.0",
+  "description": "mikeej.co.uk",
+  "main": "index.js",
+  "repository": "https://github.com/mikeej/mej",
+  "author": "Mike Edmund-Jones <mikeedmundjones@gmail.com>",
+  "license": "MIT"
+}
