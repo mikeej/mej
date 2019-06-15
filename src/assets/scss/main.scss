@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+
+@import "common/global";
+
+@import "components/header";
+@import "components/footer";
+
+@tailwind utilities;

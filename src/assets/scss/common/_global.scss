@@ -1,0 +1,9 @@
+html {
+  font-size: 62.5%;
+}
+
+.container {
+  @apply mx-auto px-8 w-full;
+
+  max-width: 1024px;
+}
