@@ -1,5 +1,6 @@
 let mix = require('laravel-mix');
 const tailwindcss = require('tailwindcss');
+require('laravel-mix-purgecss');
 
 // Shhh
 mix.disableSuccessNotifications();
@@ -18,6 +19,9 @@ mix
     processCssUrls: false,
     postCss: [ tailwindcss('./tailwind.config.js') ],
   })
+  .purgeCss({
+    folders: ['src']
+  });
 
 // JS + Babel
 mix

@@ -22,6 +22,7 @@
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "browser-sync-webpack-plugin": "2.0.1",
+    "laravel-mix-purgecss": "^4.1.0",
     "sass": "^1.21.0",
     "sass-loader": "7.*"
   }
