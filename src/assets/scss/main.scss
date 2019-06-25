@@ -4,6 +4,11 @@
 @import "common/global";
 
 @import "components/header";
+@import "components/projects";
 @import "components/footer";
+
+.profile-photo {
+  width: 1000px;
+}
 
 @tailwind utilities;

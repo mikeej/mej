@@ -1,0 +1,5 @@
+.projects {
+  article:nth-child(odd) {
+    @apply flex-row-reverse;
+  }
+}
