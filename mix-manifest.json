@@ -3,9 +3,15 @@
     "/dist/assets/js/main.js": "/dist/assets/js/main.js",
     "/dist/index.html": "/dist/index.html",
     "/dist/assets/images/hoppy.png": "/dist/assets/images/hoppy.png",
+    "/dist/assets/images/hoppy.webp": "/dist/assets/images/hoppy.webp",
     "/dist/assets/images/isa-calculator.png": "/dist/assets/images/isa-calculator.png",
+    "/dist/assets/images/isa-calculator.webp": "/dist/assets/images/isa-calculator.webp",
     "/dist/assets/images/mikeedmundjones.jpg": "/dist/assets/images/mikeedmundjones.jpg",
+    "/dist/assets/images/mikeedmundjones.webp": "/dist/assets/images/mikeedmundjones.webp",
     "/dist/assets/images/neilson-active-holidays.png": "/dist/assets/images/neilson-active-holidays.png",
+    "/dist/assets/images/neilson-active-holidays.webp": "/dist/assets/images/neilson-active-holidays.webp",
     "/dist/assets/images/nutmeg.png": "/dist/assets/images/nutmeg.png",
-    "/dist/assets/images/rsa-ireland.png": "/dist/assets/images/rsa-ireland.png"
+    "/dist/assets/images/nutmeg.webp": "/dist/assets/images/nutmeg.webp",
+    "/dist/assets/images/rsa-ireland.png": "/dist/assets/images/rsa-ireland.png",
+    "/dist/assets/images/rsa-ireland.webp": "/dist/assets/images/rsa-ireland.webp"
 }
