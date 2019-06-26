@@ -29,7 +29,7 @@ mix
 
 // Copy HTML
 mix
-  .copy('./src/index.html', 'dist')
+  .copy('./src/*', 'dist')
 
 // Copy Images
 mix
