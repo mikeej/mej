@@ -34,3 +34,12 @@ mix
 // Copy Images
 mix
   .copy('./src/assets/images/**/*', 'dist/assets/images/')
+
+// Copy random shite
+  mix
+    .copy(
+      [
+        './src/sitemap.xml'
+      ],
+      './dist/'
+    )
